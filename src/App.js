@@ -1,4 +1,4 @@
-import React, { useState, useReducer} from 'react'
+import React, { useState, useReducer } from 'react'
 import './App.css';
 import Todo from './components/Todo'
 
